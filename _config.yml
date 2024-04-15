@@ -16,14 +16,14 @@ timezone:
 
 title: Jarrod On Software # the main title
 
-tagline: Software Engineering # it will display as the sub-title
+tagline: A Blog on Software Engineering # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A place to discuss Software Engineering
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://jarrodlilkendey.com"
 
 github:
   username: programmablewealth # change to your github username
@@ -50,7 +50,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-F42D14B6YS # fill in your Google Analytics ID
 
 # Prefer color scheme setting.
 #
