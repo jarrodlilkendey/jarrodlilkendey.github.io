@@ -5,7 +5,7 @@ date: "2024-04-11"
 permalink: posts/wordpress-to-static-site/
 categories: [Tutorial]
 tags: [wordpress, static site generators, cloudflare]
-img_path: /assets/images/static-wordpress/
+img_path: /assets/images/wordpress-to-static-site/
 image: thumb.png
 ---
 
