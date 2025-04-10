@@ -4,6 +4,10 @@ jekyll build
 
 bundle exec jekyll serve
 
+with drafts
+
+bundle exec jekyll serve --drafts
+
 # Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
