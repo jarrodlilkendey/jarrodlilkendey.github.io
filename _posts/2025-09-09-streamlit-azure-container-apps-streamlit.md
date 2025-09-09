@@ -1,9 +1,9 @@
 ---
 title: "Deploy Streamlit to Azure Container Apps with IAC and CICD - Creating a Streamlit Application"
 layout: post
-date: "2025-09-08"
+date: "2025-09-09"
 permalink: posts/streamlit-azure-container-apps-streamlit/
-categories: [Tutorial]
+categories: [Streamlit to Azure Container Apps with IAC and CICD]
 tags:
   [
     streamlit,
@@ -19,13 +19,13 @@ tags:
 # img_path: /assets/images/position-images-next-to-div/
 ---
 
-Recently I have been practicing my data analysis skills with Python and I wanted to get more familiar with how to deploy a [Streamlit](https://streamlit.io/) data app to the cloud in a cost effective manner.
+In this post I will go over the Python code for the a simple 4 page application that demonstrates some of the key capabilities of streamlit.
 
-I will share how I went about this in this blog post.
+This post is part 2 of a series of posts where I will write about my solution for getting a streamlit application deployed to Azure Container Apps with IAC and CICD.
 
-In the end I successfully got the streamlit app deployed.
+The code repository for this tutorial is available on my GitHub repo [streamlit-azure-container-app](https://github.com/jarrodlilkendey/streamlit-azure-container-app).
 
-If you would like to check it out before continuining with the post, take a look over at [https://streamlit.jarrodlilkendey.com](https://streamlit.jarrodlilkendey.com).
+If you would like to check out the application before continuining with the post, take a look over at [https://streamlit.jarrodlilkendey.com](https://streamlit.jarrodlilkendey.com).
 
 ## Creating a Streamlit Application
 
@@ -358,9 +358,16 @@ The application should be accessible in the browser on localhost on port 8501.
 
 ## Related Posts
 
-This is part 2 series of posts where I will cover the solution implementation in detail.
+This post is part 2 of a series of posts where I will write about my solution for getting a streamlit application deployed to Azure Container Apps with IAC and CICD.
 
 See all of the posts included in this series below.
 
-- [Deploy Streamlit to Azure Container Apps with IAC and CICD - Overview](/)
-- [Deploy Streamlit to Azure Container Apps with IAC and CICD - Creating a Streamlit Application](/)
+{% assign category = "Streamlit to Azure Container Apps with IAC and CICD" %}
+
+<ul>
+  {% for post in site.categories[category] reversed %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
