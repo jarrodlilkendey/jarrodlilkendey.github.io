@@ -47,9 +47,9 @@ To achieve this I wrote some shell scripts that can automate this. The scripts u
 
 ## Related Posts
 
-This post is part 1 of a series of posts where I will write about my solution for getting a streamlit application deployed to Azure Container Apps with IAC and CICD.
+This post is part 1 of a [series](/categories/streamlit-to-azure-container-apps-with-iac-and-cicd/) of posts where I will write about my solution for getting a streamlit application deployed to Azure Container Apps with IAC and CICD.
 
-See all of the posts included in this series below.
+See all of the posts included in this [series](/categories/streamlit-to-azure-container-apps-with-iac-and-cicd/) below.
 
 {% assign category = "Streamlit to Azure Container Apps with IAC and CICD" %}
 

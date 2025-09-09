@@ -21,7 +21,7 @@ tags:
 
 In this post I will go over the Python code for the a simple 4 page application that demonstrates some of the key capabilities of streamlit.
 
-This post is part 2 of a series of posts where I will write about my solution for getting a streamlit application deployed to Azure Container Apps with IAC and CICD.
+This post is part 2 of a [series](/categories/streamlit-to-azure-container-apps-with-iac-and-cicd/) of posts where I will write about my solution for getting a streamlit application deployed to Azure Container Apps with IAC and CICD.
 
 The code repository for this tutorial is available on my GitHub repo [streamlit-azure-container-app](https://github.com/jarrodlilkendey/streamlit-azure-container-app).
 
@@ -358,9 +358,9 @@ The application should be accessible in the browser on localhost on port 8501.
 
 ## Related Posts
 
-This post is part 2 of a series of posts where I will write about my solution for getting a streamlit application deployed to Azure Container Apps with IAC and CICD.
+This post is part 2 of a [series](/categories/streamlit-to-azure-container-apps-with-iac-and-cicd/) of posts where I will write about my solution for getting a streamlit application deployed to Azure Container Apps with IAC and CICD.
 
-See all of the posts included in this series below.
+See all of the posts included in this [series](/categories/streamlit-to-azure-container-apps-with-iac-and-cicd/) below.
 
 {% assign category = "Streamlit to Azure Container Apps with IAC and CICD" %}
 
