@@ -33,9 +33,15 @@ tags: []
   - Inefficient handshakes (especially with TLS)
   - Protocol ossification - it is very difficult to introduce new transport protocols because networking devices such as firewalls, network address translators, load balancers, and deep packet inspection (aka as middleboxes) have a big problem with dropping packets in a format they are not familar with. A backwards compatibility problem.
 
-## How does QUIC solve these problems?
+## QUIC Addressing Head of Line Blocking Problem
+
+## QUIC Addressing Inefficient Handshake Problem
+
+## QUIC Addressing Protocol Ossification Problem
 
 ## QUIC use cases
 
 - HTTP3
 - Low latency datagrams in the browser with WebTransport + QUIC
+
+
