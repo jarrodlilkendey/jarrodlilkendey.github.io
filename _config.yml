@@ -16,7 +16,7 @@ timezone: Australia/Melbourne
 
 title: Jarrod On Software # the main title
 
-tagline: A Blog on Software Engineering # it will display as the sub-title
+tagline: Software Engineer, DevOps Engineer, Cloud Engineer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A place to discuss Software Engineering
